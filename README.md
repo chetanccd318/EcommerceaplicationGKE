@@ -186,5 +186,34 @@ while true; do wget -q -O- http://nginx-service; done
 * Successfully deployed a distributed microservices application on GKE
 * Enabled autoscaling using Kubernetes HPA
 * Achieved scalable, resilient, and cloud-native architecture
+## 📸 Project Screenshots
+
+### ☸️ GKE Cluster
+![GKE Cluster](images/gke-cluster.png)
 
 ---
+
+### 📄 Kubernetes Manifests Deployment
+![Manifest](images/manifest.png)
+
+---
+
+### 🌐 Frontend External Service
+![Frontend Service](images/frontendportserver.png)
+
+---
+
+### 💳 Payment Service
+![Payment Service](images/Paymentservice.png)
+
+---
+
+### 🚚 Shipping Service
+![Shipping Service](images/Shipping.png)
+
+---
+
+### 🛒 Product Cart Service
+![Product Cart](images/productcart.png)
+
+
